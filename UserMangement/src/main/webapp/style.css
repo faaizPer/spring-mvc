@@ -1,0 +1,20 @@
+row{
+background-color:orange;
+}
+h1
+{
+color:orange;
+text-align:center;
+}
+.container{
+color:orange;
+text-align:center;
+}
+.container text-left{
+color:red;
+}
+p
+{
+font-family:"Times New Roman";
+font-size:20px;
+}
